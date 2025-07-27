@@ -4,6 +4,10 @@ This project provides a comprehensive analysis of Austin, Texas’s residential 
 
 ---
 
+### 📑 Contents:
+- **Power BI Dashboard**
+- **Project Resources:** Data Model, Data File, Background Theme
+
 ## 📊 Project Overview
 
 - **Tool Used**: Power BI  
