@@ -68,3 +68,14 @@ Understand which features drive housing value:
 - Median Home Price by:
   - No. of Bedrooms, Bathrooms, Garages, Appliances, etc.
 - Text Analytics: Common listing words by price segment
+
+---
+
+## 📦 Key Outcomes
+
+- Created a **normalized star and snowflake schema** to improve query efficiency.
+- **40% reduction in dataset size** by removing redundancy.
+- Delivered a **clean, interactive Power BI experience** for both buyers and analysts.
+- Incorporated **AI-driven insights** via Key Influencers to explain price variations.
+
+---
