@@ -60,7 +60,7 @@ An interactive geospatial map:
 - Filter and explore property locations
 - Hover to view key metrics and property details
 
-![Location View]([https://github.com/yasharora57/DA2_Advanced_Project-Austin-Property-Market-Insights-Dashboard-using-PowerBI/blob/ae1cbed25dd467c5124986b600243971beaae230/Project%20Resources/Report%20Views/View%202_Location.png])
+![Location View](https://github.com/yasharora57/DA2_Advanced_Project-Austin-Property-Market-Insights-Dashboard-using-PowerBI/blob/ae1cbed25dd467c5124986b600243971beaae230/Project%20Resources/Report%20Views/View%202_Location.png)
 
 ### 3. **School View**
 Analyze property suitability based on nearby schools:
@@ -71,7 +71,7 @@ Analyze property suitability based on nearby schools:
   - Students per Teacher
 - Pie charts for property distribution by school rating
 
-![School View]([https://github.com/yasharora57/DA2_Advanced_Project-Austin-Property-Market-Insights-Dashboard-using-PowerBI/blob/ae1cbed25dd467c5124986b600243971beaae230/Project%20Resources/Report%20Views/View%203_Schools.png])
+![School View](https://github.com/yasharora57/DA2_Advanced_Project-Austin-Property-Market-Insights-Dashboard-using-PowerBI/blob/ae1cbed25dd467c5124986b600243971beaae230/Project%20Resources/Report%20Views/View%203_Schools.png)
 
 ### 4. **Features View**
 Understand which features drive housing value:
@@ -80,7 +80,7 @@ Understand which features drive housing value:
   - No. of Bedrooms, Bathrooms, Garages, Appliances, etc.
 - Text Analytics: Common listing words by price segment
 
-![Features View]([https://github.com/yasharora57/DA2_Advanced_Project-Austin-Property-Market-Insights-Dashboard-using-PowerBI/blob/ae1cbed25dd467c5124986b600243971beaae230/Project%20Resources/Report%20Views/View%204_Features.png])
+![Features View](https://github.com/yasharora57/DA2_Advanced_Project-Austin-Property-Market-Insights-Dashboard-using-PowerBI/blob/ae1cbed25dd467c5124986b600243971beaae230/Project%20Resources/Report%20Views/View%204_Features.png)
 
 ---
 
