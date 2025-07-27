@@ -52,7 +52,7 @@ A high-level snapshot of the current property market in Austin:
   - Feature Distribution (%)
   - Build Year Breakdown
  
-![Summary View]([https://github.com/yasharora57/DA2_Advanced_Project-Austin-Property-Market-Insights-Dashboard-using-PowerBI/blob/ae1cbed25dd467c5124986b600243971beaae230/Project%20Resources/Report%20Views/View%201_Summary.png])
+![Summary View](https://github.com/yasharora57/DA2_Advanced_Project-Austin-Property-Market-Insights-Dashboard-using-PowerBI/blob/ae1cbed25dd467c5124986b600243971beaae230/Project%20Resources/Report%20Views/View%201_Summary.png)
 
 
 ### 2. **Location View**
