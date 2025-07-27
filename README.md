@@ -51,11 +51,16 @@ A high-level snapshot of the current property market in Austin:
   - Properties by Zipcode
   - Feature Distribution (%)
   - Build Year Breakdown
+ 
+![Summary View]([https://github.com/yasharora57/DA2_Advanced_Project-Austin-Property-Market-Insights-Dashboard-using-PowerBI/blob/ae1cbed25dd467c5124986b600243971beaae230/Project%20Resources/Report%20Views/View%201_Summary.png])
+
 
 ### 2. **Location View**
 An interactive geospatial map:
 - Filter and explore property locations
 - Hover to view key metrics and property details
+
+![Location View]([https://github.com/yasharora57/DA2_Advanced_Project-Austin-Property-Market-Insights-Dashboard-using-PowerBI/blob/ae1cbed25dd467c5124986b600243971beaae230/Project%20Resources/Report%20Views/View%202_Location.png])
 
 ### 3. **School View**
 Analyze property suitability based on nearby schools:
@@ -66,12 +71,16 @@ Analyze property suitability based on nearby schools:
   - Students per Teacher
 - Pie charts for property distribution by school rating
 
+![School View]([https://github.com/yasharora57/DA2_Advanced_Project-Austin-Property-Market-Insights-Dashboard-using-PowerBI/blob/ae1cbed25dd467c5124986b600243971beaae230/Project%20Resources/Report%20Views/View%203_Schools.png])
+
 ### 4. **Features View**
 Understand which features drive housing value:
 - Key Influencers chart: What impacts home prices
 - Median Home Price by:
   - No. of Bedrooms, Bathrooms, Garages, Appliances, etc.
 - Text Analytics: Common listing words by price segment
+
+![Features View]([https://github.com/yasharora57/DA2_Advanced_Project-Austin-Property-Market-Insights-Dashboard-using-PowerBI/blob/ae1cbed25dd467c5124986b600243971beaae230/Project%20Resources/Report%20Views/View%204_Features.png])
 
 ---
 
